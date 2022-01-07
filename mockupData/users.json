@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "61d87a59a2c2d064f89b2b40"
+  },
+  "role": "staff",
+  "name": "Hieu beo",
+  "phone": "123456",
+  "email": "hieubeo@gmail.com",
+  "schedule": [
+    "Monday",
+    "Wednesday",
+    "Friday"
+  ]
+},{
+  "_id": {
+    "$oid": "61d87b0da2c2d064f89b2b41"
+  },
+  "role": "staff",
+  "name": "Hieu khong beo",
+  "phone": "12345678",
+  "email": "hieukhongbeo@gmail.com",
+  "schedule": [
+    "Tuesday",
+    "Thursday",
+    "Friday"
+  ]
+},{
+  "_id": {
+    "$oid": "61d87b3da2c2d064f89b2b42"
+  },
+  "role": "staff",
+  "name": "Nghia hoi",
+  "phone": "89257",
+  "email": "nghiahoi@gmail.com",
+  "schedule": [
+    "Monday",
+    "Thursday",
+    "Sunday"
+  ]
+},{
+  "_id": {
+    "$oid": "61d87b60a2c2d064f89b2b43"
+  },
+  "role": "admin",
+  "name": "Lee Xuan Hung",
+  "phone": "709842375",
+  "email": "leexuanhung@gmail.com",
+  "schedule": []
+},{
+  "_id": {
+    "$oid": "61d87b8ea2c2d064f89b2b44"
+  },
+  "role": "staff",
+  "name": "Van",
+  "phone": "6353456",
+  "email": "van@gmail.com",
+  "schedule": [
+    "Saturday"
+  ]
+}]

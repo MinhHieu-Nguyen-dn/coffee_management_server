@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "61d874eea2c2d064f89b2b26"
+  },
+  "name": "cà phê đen",
+  "type": "cà phê",
+  "price": 15000,
+  "imgUrl": "https://product.hstatic.net/1000270130/product/vnese_coffee_master_895a0e046c6946d183a4f09cbb6738e7.jpg",
+  "available": true
+},{
+  "_id": {
+    "$oid": "61d875a7a2c2d064f89b2b27"
+  },
+  "name": "cà phê sữa",
+  "type": "cà phê",
+  "price": 18000,
+  "imgUrl": "https://hipbcoffee.com:8443/storage/public/1-ca-phe-sua-1586320543.jpg",
+  "available": true
+},{
+  "_id": {
+    "$oid": "61d875eea2c2d064f89b2b28"
+  },
+  "name": "bạc xỉu",
+  "type": "cà phê",
+  "price": 22000,
+  "imgUrl": "https://inlysugiare.vn/wp-content/uploads/2020/05/ly-ca-phe-bac-xiu-da.jpg",
+  "available": true
+},{
+  "_id": {
+    "$oid": "61d87635a2c2d064f89b2b29"
+  },
+  "name": "sinh tố bơ",
+  "type": "sinh tố",
+  "price": 30000,
+  "imgUrl": "https://product.hstatic.net/1000287491/product/screenshot_20180627-173400.png",
+  "available": true
+},{
+  "_id": {
+    "$oid": "61d87670a2c2d064f89b2b2a"
+  },
+  "name": "sữa tươi trân châu dườn đen",
+  "type": "trà sữa",
+  "price": 35000,
+  "imgUrl": "https://cf.shopee.vn/file/8e3b9b9d57559962a52c7699f98a0c67",
+  "available": true
+}]

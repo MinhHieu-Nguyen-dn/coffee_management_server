@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 const tableSchema = new mongoose.Schema({
-    status: Boolean,
+    isActive: Boolean,
     isChosen: Boolean,
     orderList: [Object({
         drink: {
