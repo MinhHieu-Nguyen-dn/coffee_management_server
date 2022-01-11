@@ -2,13 +2,18 @@ import mongoose from 'mongoose';
 
 const tableSchema = new mongoose.Schema({
     isActive: Boolean,
-    isChosen: Boolean,
     orderList: [Object({
         drink: {
             type: mongoose.Schema.Types.ObjectId,
             ref: 'drink'
         },
-        quantity: Number
+        name: String,
+        category: String,
+        price: Number,
+        imgUrl: String,
+        available: Boolean,
+        quantity: Number,
+        _id: false
     })],
     number: Number
 })

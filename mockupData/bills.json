@@ -1,41 +1,51 @@
 [{
   "_id": {
-    "$oid": "61d8791a95fc0a87cce95360"
+    "$oid": "61dd5498fe3f0ae133369f24"
   },
   "table": {
-    "$oid": "61d877cca2c2d064f89b2b33"
+    "$oid": "61dd4ffa4b01fbca285ae4a2"
   },
-  "total": 135000,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61d8794694a1d6dfddd070e0"
-  },
-  "table": {
-    "$oid": "61d877cca2c2d064f89b2b33"
-  },
-  "total": 135000,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61d879be32958f3a8a0491bd"
-  },
-  "table": {
-    "$oid": "61d879b3a2c2d064f89b2b36"
-  },
-  "total": 135000,
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61d87bfaf74403a18b70bda2"
-  },
-  "table": {
-    "$oid": "61d87a0ca2c2d064f89b2b3b"
-  },
-  "time": "12:36 AM 8/1/2022",
-  "total": 105000,
+  "time": "11-1-2022",
+  "total": 58,
   "staff": {
-    "$oid": "61d87a59a2c2d064f89b2b40"
+    "$oid": "61dd4ea24b01fbca285ae482"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61dd596343a9b2f8c0acf9f7"
+  },
+  "table": {
+    "$oid": "61dd4fd74b01fbca285ae48c"
+  },
+  "time": "11-1-2022 17:18:11",
+  "orderList": [
+    {
+      "drink": {
+        "$oid": "61dc6a5d8ec7396db1fdd99b"
+      },
+      "name": "Lemon Soda",
+      "category": "Soda",
+      "price": 23,
+      "imgUrl": "https://onehappyavo.com/wp-content/uploads/2020/09/DSCF6309-scaled.jpg",
+      "available": true,
+      "quantity": 4
+    },
+    {
+      "drink": {
+        "$oid": "61dc6c6e8ec7396db1fdd9b5"
+      },
+      "name": "Latte",
+      "category": "Coffee",
+      "price": 30,
+      "imgUrl": "https://cdn.tgdd.vn/2021/09/CookProduct/Cafe-latte-la-gi-latte-va-cupuchino-co-gi-khac-cac-loai-cach-pha-latte-0-1200x676.jpg",
+      "available": true,
+      "quantity": 2
+    }
+  ],
+  "total": 152,
+  "staff": {
+    "$oid": "61dd4f4d4b01fbca285ae486"
   },
   "__v": 0
 }]
